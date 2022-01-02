@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MohammadReza Sharifi</h1>
-<h3 align="center">A Electrical Enginner and Maker</h3>
+<h3 align="center">An Electrical Enginner and Maker</h3>
 
 - 🔭 I’m currently working on **Eidikatech Startup**
 
